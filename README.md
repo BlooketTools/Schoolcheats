@@ -27,9 +27,12 @@ There you go!
 The <b>Schoolcheats</b> Website Is Down Here! 👇
 <br>
 https://schoolcheats.net
+<br>https://schoolcheats.net
+<br>https://schoolcheats.net
+<br>
+# Banned?
+I just wanted to say that *I am not the one who made any of these scripts, therefore I am not responsible if you get banned.*
 <br>
 <br>
-
-I just wanted to say that **I am not the one who made any of these scripts, therefore I am not responsible if you get banned.
 ![image](https://user-images.githubusercontent.com/80642858/172027778-a89033f8-df89-4498-ad09-a7182c05ab27.png)
 
