@@ -29,6 +29,6 @@ The <b>Schoolcheats</b> Website Is Down Here! 👇
 https://schoolcheats.net
 <br>
 <br>
----
+<br>
 All of this was made by me. [This Schoolcheats Respiratory](https://github.com/VillainsRule4000/Schoolcheats) Took all my work. It is <b>in the process</b> of being Tooken Down.
 
